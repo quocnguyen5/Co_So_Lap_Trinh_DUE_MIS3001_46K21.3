@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Fun" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Fun/Print-PicText" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Fun/Snake-AI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LuyenCode.net/BaiTapLuyencode.net" vcs="Git" />
+  </component>
+</project>
