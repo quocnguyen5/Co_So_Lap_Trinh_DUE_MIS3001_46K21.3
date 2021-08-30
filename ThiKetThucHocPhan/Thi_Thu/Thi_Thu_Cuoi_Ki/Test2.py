@@ -1,3 +1,6 @@
-a = int(input())
-b = int(input())
-print(a * b)
+a = 'nguyen'
+# for i in a:
+#     if i =='n':
+
+a.replace('n','')
+print(a)
